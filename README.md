@@ -18,8 +18,7 @@ https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
 
 ## To use:
 1. 把 labels.txt 和 trained.tflite 拖到OpenMV4 H7 Plus中。
-2. 使用OpenMV IDE运行 ei_image_classification.py。
-3. 你可以在终端中看到结果。
+2. 使用OpenMV IDE运行 ei_image_classification.py。![32adcdfaaf51f3deebd5b1d483eef01f3b297952](https://user-images.githubusercontent.com/67135504/118282041-70add500-b500-11eb-8f33-6e6a5f3b63f4.jpg)
 
 ## 结果
 ![test_battery](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_battery.png)
