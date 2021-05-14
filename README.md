@@ -1,11 +1,8 @@
 # rubbish-identification-and-classification
-# rubbish-tflite
 一个分类器，用于分类电池，瓶子，易拉罐，和烟头
 [English README](https://github.com/SingTown/rubbish-tflite/blob/main/README.md)
 
-
-这个模型是使用edgeimpulse训练的，教程：
-https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
+这个模型是使用edgeimpulse训练的，教程：https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
 
 
 这只是一个用于测试的demo。如果你需要更高的结果，请使用自己的图像来训练，使用edgeimpulse非常简单。
