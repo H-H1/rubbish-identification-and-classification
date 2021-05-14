@@ -1,4 +1,4 @@
-# rubbish-identification-and-classification
+# 垃圾分类
 用于分类电池，瓶子，易拉罐，和烟头
 这个模型是使用edgeimpulse训练的，教程：https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
 
@@ -8,7 +8,8 @@
 
 
 ## 如何使用:
-1. 放入文件。 ![d963ada1639e21fd054ef4b6ec0c8e4](https://user-images.githubusercontent.com/67135504/118285616-3a725480-b504-11eb-9e7c-70fb3c963146.png)
+1. 放入文件。 
+2. ![d963ada1639e21fd054ef4b6ec0c8e4](https://user-images.githubusercontent.com/67135504/118285616-3a725480-b504-11eb-9e7c-70fb3c963146.png)
 
 3. 使用OpenMV IDE运行 ei_image_classification.py。
 ## 结果
